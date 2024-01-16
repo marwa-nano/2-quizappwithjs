@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QUIZ APP</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+
+</head>
+<body>
+    <main>
+        <section class=" quiz-app">
+            <div class="quiz-app-info">
+                <h3 class="category">Category: <span>HTML</span></h3>
+                <h4 class="qcount">Questions Number: <span>10</span></h4>
+            </div>
+            <div class="quiz-app-content">
+                <h2 class="question">Question no. 1</h2>
+                <ul class="answers-container">
+                    <li>
+                        <input type="radio" id="a" name="answer"  class="answers">
+                        <label id="a-answer" for="a" >answer a  </label>
+                    </li>
+                    <li>
+                        <input type="radio" id="b" name="answer" class="answers">
+                        <label id="b-answer"  for="b">answer b </label>
+                    </li>
+                    <li>
+                        <input type="radio" id="c" name="answer" class="answers">
+                        <label id="c-answer" for="c">answer c </label>
+                    </li>
+                    <li>
+                        <input type="radio" id="d" name="answer" class="answers">
+                        <label id="d-answer" for="d">answer d </label>
+                    </li>
+                </ul>
+            </div>
+            <button class="submit-btn">Submit</button>
+            <div class="quiz-app-timer">
+                <div class="bullets"></div>
+                <div class="quiz-timer"></div>
+            </div>
+            <div class="quiz-app-result"></div>
+        </section>
+    </main>
+    <script src="app.js"></script>
+</body>
+</html>
