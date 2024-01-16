@@ -1,6 +1,6 @@
 [  
   {
-    "question": "Why We Use <br> Element",
+    "question": "Why We Use <br> Element?",
     "a": "To Make Text Bold",
     "b": "To Make Text Italic",
     "c": "To Add Breakline",
@@ -8,7 +8,7 @@
     "correct": "c"
   },
   {
-    "question": "Is <img> Element Has Attribute href",
+    "question": "Is <img> Element Has Attribute href?",
     "a": "Yes",
     "b": "No Its For Anchor Tag <a>",
     "c": "All Elements Has This Attribute",
@@ -16,7 +16,7 @@
     "correct": "b"
   },
   {
-    "question": "How Can We Make Element Text Bold",
+    "question": "How Can We Make Element Text Bold?",
     "a": "Putting It Inside <b> Tag",
     "b": "Putting It Inside <strong> Tag",
     "c": "Customizing It With Font-Weight Property In CSS",
@@ -24,7 +24,7 @@
     "correct": "d"
   },
   {
-    "question": "What Is The Right Hierarchy For Creating Part Of Page",
+    "question": "What Is The Right Hierarchy For Creating Part Of Page?",
     "a": "<h2> Then <p> Then <h1> Then <p> Then <h3> Then <p> Then <img>",
     "b": "<h1> Then <p> Then <h3> Then <p> Then <h2> Then <p> Then <img>",
     "c": "<h2> Then <p> Then <h3> Then <p> Then <h1> Then <p> Then <img>",
@@ -32,7 +32,7 @@
     "correct": "d"
   },
   {
-    "question": "How Can We Include External Page Inside Our HTML Page",
+    "question": "How Can We Include External Page Inside Our HTML Page?",
     "a": "By Using Include in HTML",
     "b": "By Using Load In HTML",
     "c": "By Using iFrame Tag",
@@ -40,7 +40,7 @@
     "correct": "c"
   },
   {
-    "question": "What Is The Tag That Not Exists in HTML",
+    "question": "What Is The Tag That Not Exists in HTML?",
     "a": "<object>",
     "b": "<basefont>",
     "c": "<abbr>",
@@ -48,7 +48,7 @@
     "correct": "d"
   },
   {
-    "question": "How We Specify Document Type Of HTML5 Page",
+    "question": "How We Specify Document Type Of HTML5 Page?",
     "a": "<DOCTYPE html>",
     "b": "<DOCTYPE html5>",
     "c": "<!DOCTYPE html5>",
@@ -56,7 +56,7 @@
     "correct": "d"
   },
   {
-    "question": "What Is The Element Thats Not Exists in HTML5 Semantics",
+    "question": "What Is The Element Thats Not Exists in HTML5 Semantics?",
     "a": "<article>",
     "b": "<section>",
     "c": "<blockquote>",
@@ -64,7 +64,7 @@
     "correct": "c"
   },
   {
-    "question": "In HTML Can We Use This Way To Add Attributes",
+    "question": "In HTML Can We Use This Way To Add Attributes?",
     "a": "<div class='class-name'>",
     "b": "<div class=class-name>",
     "c": "<div class=\"class-name\">",
@@ -72,14 +72,14 @@
     "correct": "d"
   },
   {
-    "question": "In HTML Can We Use This Way To Add Attributes",
+    "question": "In HTML Can We Use This Way To Add Attributes?",
     "a": "<div class='class-name'>",
     "b": "<div class=class-name>",
     "c": "<div class=\"class-name\">",
     "d": "All Is Right",
     "correct": "d"
   },{
-    "question": "In HTML Can We Use This Way To Add Attributes",
+    "question": "In HTML Can We Use This Way To Add Attributes?",
     "a": "<div class='class-name'>",
     "b": "<div class=class-name>",
     "c": "<div class=\"class-name\">",
